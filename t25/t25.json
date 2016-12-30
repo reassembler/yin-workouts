@@ -1,0 +1,22 @@
+{
+  "type": "T25",
+  "idPrefix": "t25",
+
+  "workouts": [
+      {"name": "Rest", "extendedDescription": "Record Your Stats!", "isRest":true},
+      {"name": "Cardio", "length":25},
+      {"name": "Speed 1.0", "length":25},
+      {"name": "Ab Intervals", "length":25},
+      {"name": "Lower Focus", "length":25},
+      {"name": "Total Body Circuit", "length":25},
+      {"name": "Core Cardio", "length":25},
+      {"name": "Speed 2.0", "length":25},
+      {"name": "Rip't Circuit", "length":25},
+      {"name": "Dynamic Core", "length":25},
+      {"name": "Upper Focus", "length":25},
+      {"name": "Rip't Up", "length":25},
+      {"name": "Extreme Circuit", "length":25},
+      {"name": "The Pyramid", "length":25},
+      {"name": "Stretch"}
+  ]
+}
